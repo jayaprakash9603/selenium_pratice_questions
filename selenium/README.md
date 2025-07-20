@@ -28,7 +28,7 @@
 - Form handling (submit(), clear())
 - Error message validation
 - Navigation testing
-- URL and title verification
+- URL and title verificatio
 
 [View Day 2 Details](Day2/Day2.md)
 
