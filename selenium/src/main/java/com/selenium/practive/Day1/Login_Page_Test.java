@@ -1,4 +1,4 @@
-package com.selenium.practive;
+package com.selenium.practive.Day1;
 
 import com.selenium.utils.WebDriverBuilder;
 import org.openqa.selenium.By;
