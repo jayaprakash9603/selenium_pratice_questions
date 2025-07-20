@@ -1,4 +1,4 @@
-package com.selenium.practive;
+package com.selenium.practice;
 
 
 import com.selenium.utils.WebDriverBuilder;

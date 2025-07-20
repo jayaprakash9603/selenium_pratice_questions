@@ -13,7 +13,7 @@
 - sendKeys(), click(), getText()
 - Basic assertions
 
-[View Day 1 Details](../../Day1/Day1.md)
+[View Day 1 Details](selenium/src/main/java/com/example/practive/Day1/Day1.md)
 
 ---
 
